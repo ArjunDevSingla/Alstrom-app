@@ -9,6 +9,7 @@ public class AlstromAppApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AlstromAppApplication.class, args);
 		System.out.println("Alstrom app created created by Arjun");
+		System.out.println("This is for testing");
 	}
 
 }
